@@ -1,0 +1,12 @@
+[
+    {
+        "name": "html-basics",
+        "desc": " my first html basics learning",
+        "image": "uploads/html-basics.png ",
+        "category": "html",
+        "links": {
+          "view": "http://127.0.0.1:5500/",
+          "code": "https://github.com/AmerilMampao/html-basics"
+        }
+      }
+]
